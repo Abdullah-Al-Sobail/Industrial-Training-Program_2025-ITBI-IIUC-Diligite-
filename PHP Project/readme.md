@@ -318,6 +318,7 @@ DevOps Lead | [Ariful Islam](https://github.com/Ariful-Islam-official)  → devO
 * [Mahiah Kulsum  ](https://github.com/MahiyaK)  → Software Engineer – Backend
 * [Fatima Ibrahim Chowdhury](https://github.com/Givemeabreac)  → Software Engineer – Backend
 * [Maimuna Akter Shawon](https://github.com/Maimuna-shaon)  → Software Engineer – Backend
+* [Sidratul Montaha Chy](https://github.com/montaha-927)  → Software Engineer – Backend
 
 
 **Frontend Team – Software Engineers**

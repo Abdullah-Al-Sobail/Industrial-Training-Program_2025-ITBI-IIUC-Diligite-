@@ -439,5 +439,14 @@ DevOps Lead | [Ariful Islam](https://github.com/Ariful-Islam-official)  → devO
                  QA (31–34)
 ```
 
+# ✅ Rules for Students
+
+1. **Never commit directly to `main` or `develop`.**
+2. **Every feature must go through a Pull Request (PR).**
+3. **At least one Tech Lead must approve a PR before merging.**
+4. **Write meaningful commit messages** (e.g., `Added user login API`).
+5. **Delete feature branches** after merging to keep repo clean.
+
 ---
+
 

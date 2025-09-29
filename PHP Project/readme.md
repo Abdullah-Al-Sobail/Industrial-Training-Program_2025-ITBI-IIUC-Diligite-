@@ -439,7 +439,7 @@ DevOps Lead | [Ariful Islam](https://github.com/Ariful-Islam-official)  → devO
                  QA (31–34)
 ```
 
-# ✅ Rules for Students
+# Rules for Students
 
 1. **Never commit directly to `main` or `develop`.**
 2. **Every feature must go through a Pull Request (PR).**

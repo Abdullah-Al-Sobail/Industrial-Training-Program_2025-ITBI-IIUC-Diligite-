@@ -32,7 +32,7 @@
                     @auth
                         <ul class="navbar-nav mx-auto">
                         <li class="nav-item"><a href="{{route('blog.add')}}" class="nav-link">Add Post</a></li>
-                        <li class="nav-item"><a href="" class="nav-link">All Post</a></li>
+                        <li class="nav-item"><a href="{{route('blog.allPost')}}" class="nav-link">All Post</a></li>
                     </ul>
                     @endauth
 

@@ -14,3 +14,7 @@ Route::get('/', function () {
 Route::get('/test-page-new-test-page/{id}',[HomeController::class,'home'])->name('test');
 Route::get('/blog-page',[HomeController::class,'blog'])->name('blog');
 
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
